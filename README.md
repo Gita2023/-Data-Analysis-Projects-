@@ -1,4 +1,4 @@
-**Data Analysis Portfolio Projects by Mohamed Sameer**
+**Data Analysis Projects**
 
 ---
 
